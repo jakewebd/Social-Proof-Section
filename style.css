@@ -9,7 +9,7 @@ font-family:'League Spartan', monospace;
     grid-template-rows: repeat(120, 25px);
     background-repeat: no-repeat;
     position: relative;
-    left:50%;
+    left:25%;
     margin-top:20%;
 }
 .about-section{
